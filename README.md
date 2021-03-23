@@ -14,3 +14,4 @@
 - Animations with start and end of matches.
 - Adding more characters with new abilities.
 - Sound effects during the gameplay.
+- Using a new theme with different colors.
